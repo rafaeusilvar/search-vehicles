@@ -1,0 +1,49 @@
+body{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif ;
+}
+
+h1{
+  font-family: 'Bebas Neue', cursive;
+  margin: 3rem;
+}
+
+#git{
+  text-decoration: none;
+  color: white;
+  transition: .5s ease all;
+}
+
+#git:hover{
+  color: aqua;
+} 
+.logos{
+  display: flex;
+  justify-content: space-around;
+}
+.logo{
+  width: 100px;
+}
+form{
+  margin: 3rem;
+}
+#title{
+  font-size: 2rem;
+  color: #333;
+  margin-top: 3rem;
+  text-align: center;
+}
+
+#imgCar{
+  padding: 4rem;
+  /* width: 300px;
+  height: 300px; */
+}
+
+#infoCar{
+  display: flex;
+  text-align: center;
+  color: #333;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
