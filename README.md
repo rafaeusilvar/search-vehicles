@@ -9,7 +9,6 @@
   <br>  
     <p>Esse projeto foi desenvolvido com as seguintes tecnologias:</p>
 <br>  
-  <p style="font-size:2rem;">HTML5, CSS, JavaScript e Bootstrap</p>
     <ul>
       <li>HTML5</li>
       <li>CSS</li>
